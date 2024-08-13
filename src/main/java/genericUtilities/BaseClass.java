@@ -19,7 +19,7 @@ import ObjectRepo.LoginPage;
 import ObjectRepo.Organizationspage;
 import ObjectRepo.PageObjectManager;
 import ObjectRepo.organizationInFormationpage;
-
+//this is base class
 public class BaseClass {
 	//@BeforeSuite
 	//@BeforeTest
