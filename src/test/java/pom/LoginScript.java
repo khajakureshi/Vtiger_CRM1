@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import ObjectRepo.LoginPage;
-
+//this is a loginScript
 public class LoginScript {
 
 	public static void main(String[] args) throws InterruptedException {
